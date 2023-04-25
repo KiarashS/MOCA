@@ -1,0 +1,10 @@
+Markdown:
+https://www.markdownguide.org/basic-syntax/#reference-style-links
+
+
+Email Encoders:
+https://ctrlq.org/encode/
+https://www.knechtology.com/stop-spam/email_encoder.html
+
+SVG Tools:
+https://www.janvas.com/apps/janvas_7.0.1/dist/index.html
