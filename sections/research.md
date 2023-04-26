@@ -78,7 +78,7 @@ GRAB addresses the reliable deliver of sensing data through a vast field of smal
 
 **Publications:**
 
-* Fan Ye, Gary Zhong, Songwu Lu, Lixia Zhang, ``[GRAdient Broadcast: A Robust Data Delivery Protocol for Large Scale Sensor Networks](http://irl.cs.ucla.edu/papers/grab-winet.ps),''  ACM Wireless Networks (WINET), Vol. 11, No.2, March 2005. (An [earlier version](/files/research/ye-ipsn-03.ps) appeared in IPSN 2003)
+* Fan Ye, Gary Zhong, Songwu Lu, Lixia Zhang, ``[GRAdient Broadcast: A Robust Data Delivery Protocol for Large Scale Sensor Networks](http://irl.cs.ucla.edu/research-projects/grab-winet.ps),''  ACM Wireless Networks (WINET), Vol. 11, No.2, March 2005. (An [earlier version](/files/research/ye-ipsn-03.ps) appeared in IPSN 2003)
 
 The old webpage for GRAB is [here](http://irl.cs.ucla.edu/GRAB/).  
  
@@ -157,7 +157,7 @@ In a large-scale sensor network individual sensors are subject to security compr
 **Publications**
 
 * Fan Ye, Haiyun Luo, Songwu Lu, Lixia Zhang, [``Statistical En-route Detection and Filtering of Injected False Data in Sensor Networks,''](/files/research/sef-infocom04.pdf) to appear in IEEE INFOCOM 2004
-* A [poster](../sef-sensys.ppt.gz) and [extended abstract](http://irl.cs.ucla.edu/papers/sensys03-poster.ps) at ACM SenSys, Los Angeles, CA, 2003
+* A [poster](../sef-sensys.ppt.gz) and [extended abstract](http://irl.cs.ucla.edu/research-projects/sensys03-poster.ps) at ACM SenSys, Los Angeles, CA, 2003
 
 ### 2. A Location Dependent Approach to Secure Report Generation in Sensor Networks
 
