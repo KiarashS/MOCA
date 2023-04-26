@@ -35,19 +35,19 @@ I have multiple projects addressing scalable and accurate indoor map constructio
 
 1. **BatTracker:** Accurate, infrastructure-free 3D tracking of mobile devices without any external hardware. The paper will appear in ACM SenSys 2017.
 
-2. **BatMapper:** We leverage acoustic signals to create floor maps in just a few minutes, with accuracy comparable to the state of the art, at two orders of magnitude less data and efforts. The paper appeared in [ACM Mobisys 2017](http://www.ece.stonybrook.edu/~fanye/papers/mobisys17-batmapper.pdf) with a [short video](https://www.youtube.com/watch?v=-KdhB7q2C8E).
+2. **BatMapper:** We leverage acoustic signals to create floor maps in just a few minutes, with accuracy comparable to the state of the art, at two orders of magnitude less data and efforts. The paper appeared in [ACM Mobisys 2017](/files/papers/mobisys17-batmapper.pdf) with a [short video](https://www.youtube.com/watch?v=-KdhB7q2C8E).
 
-3. **Knitter:** a single, novice user can create accurate floor maps in just one hour, cutting down data amounts and user efforts by one order of magnitude compared to prior work. The paper appeared in [IEEE Infocom 2017](http://www.ece.stonybrook.edu/~fanye/papers/infocom17-knitter.pdf).
+3. **Knitter:** a single, novice user can create accurate floor maps in just one hour, cutting down data amounts and user efforts by one order of magnitude compared to prior work. The paper appeared in [IEEE Infocom 2017](/files/papers/infocom17-knitter.pdf).
 
-4. **Jigsaw:** We leverage crowdsensed data from mobile users to construct complete and accurate floor plans automatically. It's the first to create high accuracy and complete maps using commodity mobile devices. The paper appeared in [ACM Mobicom 2014](http://www.ece.stonybrook.edu/~fanye/papers/mobicom14-jigsaw.pdf).
+4. **Jigsaw:** We leverage crowdsensed data from mobile users to construct complete and accurate floor plans automatically. It's the first to create high accuracy and complete maps using commodity mobile devices. The paper appeared in [ACM Mobicom 2014](/files/papers/mobicom14-jigsaw.pdf).
 
 5. **Garage Mapping:** given vehicles' fragmented movement trajectories, we develop several algorithms to piece together them for complete garage maps. The paper appeared in IEEE ICC 2016.
 
-6. **VeTrack:** we track the real time movements of vehicles in uninstrumented environments (e.g., underground parking structures) where no radio signal (e.g., WiFi, GPS, cellular) is available. The paper appeared in [ACM Sensys 2015](http://www.ece.stonybrook.edu/~fanye/papers/sensys15-vetrack.pdf). A [video demo](https://youtu.be/4aR6Q51Ypw8) shows the real time tracking in a garage.
+6. **VeTrack:** we track the real time movements of vehicles in uninstrumented environments (e.g., underground parking structures) where no radio signal (e.g., WiFi, GPS, cellular) is available. The paper appeared in [ACM Sensys 2015](/files/papers/sensys15-vetrack.pdf). A [video demo](https://youtu.be/4aR6Q51Ypw8) shows the real time tracking in a garage.
 
-7. **Sextant:** instead of WiFi signals, we leverage abundant physical objects as reference to triangulate the user location. The papers appeared in [Infocom 2014](http://www.ece.stonybrook.edu/~fanye/papers/infocom14-sextant.pdf), [ICC 2014](http://www.ece.stonybrook.edu/~fanye/papers/icc14.pdf) and [TMC](http://www.ece.stonybrook.edu/~fanye/papers/tmc15-sextant.pdf).
+7. **Sextant:** instead of WiFi signals, we leverage abundant physical objects as reference to triangulate the user location. The papers appeared in [Infocom 2014](/files/papers/infocom14-sextant.pdf), [ICC 2014](/files/papers/icc14.pdf) and [TMC](/files/papers/tmc15-sextant.pdf).
 
-8. **Peer acoustic assisted localization:** we exploit the more accurate acoustic ranging among peer phones to pose additional constraints on the location of a phone for much higher accuracy (~1m) compared to WiFi only methods. We have built a prototype and a [demo video](https://www.youtube.com/watch?v=aRZN1jAImUs) is available. The paper appeared in [Mobicom 2012](http://www.ece.stonybrook.edu/~fanye/papers/mobicom12-push.pdf) and [TMC](http://www.ece.stonybrook.edu/~fanye/papers/tmc14-wifi.pdf).
+8. **Peer acoustic assisted localization:** we exploit the more accurate acoustic ranging among peer phones to pose additional constraints on the location of a phone for much higher accuracy (~1m) compared to WiFi only methods. We have built a prototype and a [demo video](https://www.youtube.com/watch?v=aRZN1jAImUs) is available. The paper appeared in [Mobicom 2012](/files/papers/mobicom12-push.pdf) and [TMC](/files/papers/tmc14-wifi.pdf).
       </div>
     </div>
   </div>
@@ -62,9 +62,9 @@ I have multiple projects addressing scalable and accurate indoor map constructio
 
 We are developing a new mobile sensing/computing paradigm where edge devices (smartphones, vehicles, IoT) communicate with each other directly to discovery data available in the surrounding environments. They exchange, process data spontaneously using data centric primitives.
 
-1. **Pervasive Data Sharing:** agile, light-weight peer data discovery and retrieval among opportunitically congregated edge devices, specifically addressing short contact durations and uncertain data availability. The paper appeared in [ICDCS 2017](http://www.ece.stonybrook.edu/~fanye/papers/icdcs17-peer-sharing.pdf).
+1. **Pervasive Data Sharing:** agile, light-weight peer data discovery and retrieval among opportunitically congregated edge devices, specifically addressing short contact durations and uncertain data availability. The paper appeared in [ICDCS 2017](/files/papers/icdcs17-peer-sharing.pdf).
 
-2. **Fair Data Caching:** data caching among edge devices of heterogeneous ownership must achieve fairness to ensure and encourage participation. The paper appeared in [ICDCS 2017](http://www.ece.stonybrook.edu/~fanye/papers/icdcs17-fair-caching.pdf).
+2. **Fair Data Caching:** data caching among edge devices of heterogeneous ownership must achieve fairness to ensure and encourage participation. The paper appeared in [ICDCS 2017](/files/papers/icdcs17-fair-caching.pdf).
       </div>
     </div>
   </div>
@@ -92,15 +92,15 @@ We are developing a holistic hardware/software architecture for fine grained acc
 
 Using autonomous vehicles equipped with batteries, solar panels and wireless charging capabilities, we can replenish the energy of sensor nodes to achieve perpetual operation.
 
-1. [Netwrap](http://www.ece.stonybrook.edu/~fanye/papers/mass13.pdf): use named data based methods to collect recharging requests and schedule the vehicle's charging activities.
+1. [Netwrap](/files/papers/mass13.pdf): use named data based methods to collect recharging requests and schedule the vehicle's charging activities.
 
-2. [Multi-vehicle coordination](http://www.ece.stonybrook.edu/~fanye/papers/ipdps2013.pdf): coordinate the charging schedules of multiple vehicles for optimal network operation.
+2. [Multi-vehicle coordination](/files/papers/ipdps2013.pdf): coordinate the charging schedules of multiple vehicles for optimal network operation.
 
-3. [Vehicle movement costs and capacity](http://www.ece.stonybrook.edu/~fanye/papers/secon14.pdf): energy costs in vehicle movements and battery capacity are considered when deciding the vehicle's charging schedule.
+3. [Vehicle movement costs and capacity](/files/papers/secon14.pdf): energy costs in vehicle movements and battery capacity are considered when deciding the vehicle's charging schedule.
 
-4. [Resonant repeaters](http://www.ece.stonybrook.edu/~fanye/papers/icdcs15-charging.pdf): a vehicle can recharge multiple sensor nodes at once when equipped with resonant repeaters.
+4. [Resonant repeaters](/files/papers/icdcs15-charging.pdf): a vehicle can recharge multiple sensor nodes at once when equipped with resonant repeaters.
 
-5. [Solar energy harvesting](http://www.ece.stonybrook.edu/~fanye/papers/infocom16-hybrid-charging.pdf): combine the complementary strengths of solar panels and wireless charging capability.
+5. [Solar energy harvesting](/files/papers/infocom16-hybrid-charging.pdf): combine the complementary strengths of solar panels and wireless charging capability.
       </div>
     </div>
   </div>

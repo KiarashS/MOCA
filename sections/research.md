@@ -78,7 +78,7 @@ GRAB addresses the reliable deliver of sensing data through a vast field of smal
 
 **Publications:**
 
-* Fan Ye, Gary Zhong, Songwu Lu, Lixia Zhang, ``[GRAdient Broadcast: A Robust Data Delivery Protocol for Large Scale Sensor Networks](http://irl.cs.ucla.edu/papers/grab-winet.ps),''  ACM Wireless Networks (WINET), Vol. 11, No.2, March 2005. (An [earlier version](http://irl.cs.ucla.edu/papers/ye-ipsn-03.ps) appeared in IPSN 2003)
+* Fan Ye, Gary Zhong, Songwu Lu, Lixia Zhang, ``[GRAdient Broadcast: A Robust Data Delivery Protocol for Large Scale Sensor Networks](http://irl.cs.ucla.edu/papers/grab-winet.ps),''  ACM Wireless Networks (WINET), Vol. 11, No.2, March 2005. (An [earlier version](/files/research/ye-ipsn-03.ps) appeared in IPSN 2003)
 
 The old webpage for GRAB is [here](http://irl.cs.ucla.edu/GRAB/).  
  
@@ -127,7 +127,7 @@ PEAS is a randomized energy-conservation protocol that seeks to build resilient 
 
 **Publications**
 
-* Fan Ye, Gary Zhong, Songwu Lu, Lixia Zhang, [PEAS: A Robust Energy Conserving Protocol for Long-lived Sensor Networks,](http://irl.cs.ucla.edu/papers/ye-peas-icdcs03.ps) IEEE ICDCS 2003 (An extended version is in ACM Wireless Networks Journal).
+* Fan Ye, Gary Zhong, Songwu Lu, Lixia Zhang, [PEAS: A Robust Energy Conserving Protocol for Long-lived Sensor Networks,](/files/research/ye-peas-icdcs03.ps) IEEE ICDCS 2003 (An extended version is in ACM Wireless Networks Journal).
 * A [poster](/files/research/PEAS-poster.ppt.gz) presented at ICNP 2002
       </div>
     </div>
