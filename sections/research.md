@@ -156,8 +156,8 @@ In a large-scale sensor network individual sensors are subject to security compr
 
 **Publications**
 
-* Fan Ye, Haiyun Luo, Songwu Lu, Lixia Zhang, [``Statistical En-route Detection and Filtering of Injected False Data in Sensor Networks,''](/files/research/sef-infocom04.pdf) to appear in IEEE INFOCOM 2004
-* A [poster](../sef-sensys.ppt.gz) and [extended abstract](http://irl.cs.ucla.edu/research-projects/sensys03-poster.ps) at ACM SenSys, Los Angeles, CA, 2003
+* Fan Ye, Haiyun Luo, Songwu Lu, Lixia Zhang, ["Statistical En-route Detection and Filtering of Injected False Data in Sensor Networks,"](/files/research/sef-infocom04.pdf) to appear in IEEE INFOCOM 2004
+* A [poster](../sef-sensys.ppt.gz) and [extended abstract](http://irl.cs.ucla.edu/papers/sensys03-poster.ps) at ACM SenSys, Los Angeles, CA, 2003
 
 ### 2. A Location Dependent Approach to Secure Report Generation in Sensor Networks
 
