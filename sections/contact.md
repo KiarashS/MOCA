@@ -9,7 +9,7 @@
     </div>
     <div class="lm-info-block gray-default">
     <i class="lnr lnr-apartment"></i>
-    <h4>Department of Electrical and Computer Engineering</br>College of Engineering and Applied Sciences</h4>
+    <h4><span>Department of Electrical and Computer Engineering</span></br><span style="display:inline-block; margin-top: 9px;">College of Engineering and Applied Sciences</span></h4>
     <span class="lm-info-block-value"></span>
     <span class="lm-info-block-text"></span>
     </div>
@@ -30,9 +30,9 @@
 <!-- End of Contact Info -->
 
 <!-- Contact Form -->
-<div class="col-xs-12 col-sm-8">
+<div id="map-container" class="col-xs-12 col-sm-8">
     <div id="map" class="map">
-        <div class="lmpixels-map">
+        <div id="map-frame" class="lmpixels-map">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.1009084534253!2d-73.1254534!3d40.9135333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e83f2fae171a8b%3A0x1443db34559277cd!2sLight%20Engineering%2C%20Stony%20Brook%2C%20NY%2011790!5e0!3m2!1sen!2sus!4v1677676241339!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>

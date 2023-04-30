@@ -505,3 +505,11 @@ input[type="submit"],
 span.highlight {
   background-color: #ffffd0;
 }
+
+#map-container {
+  margin: 0 0 15px;
+}
+
+@media only screen and (min-width: 576px){
+  #map {height: 100%;} #map-frame {height: 100%;} #map-frame iframe {height: inherit;}
+}
