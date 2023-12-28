@@ -33,7 +33,7 @@
 
 <div class="row text-left">
     <div class="col-sm-12 col-md-12 col-lg-12" style="padding-left: 0; padding-right: 0;">
-        <p><span lang="EN-US">I'm an Associate Professor in the <a href="http://www.stonybrook.edu/commcms/electrical/">Electrical
+        <p><span lang="EN-US">I'm a Professor in the <a href="http://www.stonybrook.edu/commcms/electrical/">Electrical
         and Computer Engineering Department</a> at <a href="http://www.stonybrook.edu/">Stony Brook University</a>, also 
         <a href="https://www.cewit.org/about/leadership/fanye.php">Director of Communications 
         and Devices Devision</a> at <a href="https://www.cewit.org/">New York State Center of Excellence for Wireless and Information Technology (CEWIT)</a>.  
