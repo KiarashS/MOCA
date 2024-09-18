@@ -56,6 +56,6 @@
 
 <div class="row">
     <div class="col">
-         <span class="float-md-end" style="font-size: .85em;">Photos: <a class="lightbox" title="Stony Brook University, www.stonybrook.edu" href="./img/bg3.jpg" style="text-decoration: underline;">[Stony Brook University]</a>, <a class="lightbox" title="A New York State Center of Excellence (at Stony Brook University), www.cewit.org" href="./img/bg2.jpg" style="text-decoration: underline;">[Center of Excellence - Wireless and Information Technology]</a></span>
+         <span class="float-md-end" style="font-size: .85em;">Photos: <a class="lightbox" title="Stony Brook University, www.stonybrook.edu" href="./img/bg3.jpg" style="text-decoration: underline;">[Stony Brook University]</a>, <a class="lightbox" title="A New York State Center of Excellence (at Stony Brook University), www.cewit.org" href="./img/bg4.jpg" style="text-decoration: underline;">[Center of Excellence - Wireless and Information Technology]</a></span>
     </div>
 </div>
